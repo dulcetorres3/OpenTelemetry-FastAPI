@@ -1,4 +1,6 @@
 # OpenTelemetry-FastAPI
+This repo is a basic example of how to integrate OpenTelemetry tracing into a simple app with Jaeger as the observation UI. It send traces directly to jaeger rather than using an OTel collector in between.
+
 # Prerequisites 
 * Docker
 
